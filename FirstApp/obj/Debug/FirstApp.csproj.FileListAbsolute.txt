@@ -1,0 +1,7 @@
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\DerekBanas\FirstApp\obj\Debug\FirstApp.pdb
