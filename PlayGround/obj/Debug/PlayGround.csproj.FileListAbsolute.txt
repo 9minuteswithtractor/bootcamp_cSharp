@@ -1,0 +1,7 @@
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\bin\Debug\PlayGround.exe.config
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\bin\Debug\PlayGround.exe
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\bin\Debug\PlayGround.pdb
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\obj\Debug\PlayGround.csproj.AssemblyReference.cache
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\obj\Debug\PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\obj\Debug\PlayGround.exe
+C:\Users\root_9mwt\Documents\BOOTCAMP\cSharp\UDEMY\PlayGround\obj\Debug\PlayGround.pdb
